@@ -1,0 +1,379 @@
+2019-01-02T22:37:04.600534+00:00 app[web.1]: [getAllBlocks]: Found repo morejust/orgb20
+2019-01-02T22:37:04.600591+00:00 app[web.1]: [getAllBlocks]: Found repo morejust/orgb21
+2019-01-02T22:37:04.600611+00:00 app[web.1]: [getAllBlocks]: Found repo morejust/orgb22
+2019-01-02T22:37:04.600680+00:00 app[web.1]: [getAllBlocks]: Found repo morejust/orgb23
+2019-01-02T22:37:04.600714+00:00 app[web.1]: [getAllBlocks]: Found repo morejust/orgb24
+2019-01-02T22:37:04.600765+00:00 app[web.1]: [getAllBlocks]: Found repo morejust/orgb25
+2019-01-02T22:37:04.601013+00:00 app[web.1]: (node:4) UnhandledPromiseRejectionWarning: TypeError: Cannot read property 'size' of undefined
+2019-01-02T22:37:04.601015+00:00 app[web.1]:     at getAllBlocks.then.blocks (/app/repo.js:69:79)
+2019-01-02T22:37:04.601017+00:00 app[web.1]:     at process._tickCallback (internal/process/next_tick.js:68:7)
+2019-01-02T22:37:04.601075+00:00 app[web.1]: (node:4) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 92)
+2019-01-02T22:37:33.824149+00:00 heroku[router]: at=error code=H12 desc="Request timeout" method=POST path="/stats" host=morejust.herokuapp.com request_id=4d7b9663-d750-40b3-92b3-1108dac4fc72 fwd="108.249.134.142" dyno=web.1 connect=0ms service=30000ms status=503 bytes=0 protocol=https
+2019-01-02T22:37:38.651119+00:00 heroku[router]: at=info method=POST path="/initialInfo" host=morejust.herokuapp.com request_id=0a3d4399-69d7-4470-b79d-f1b113dcd11f fwd="46.133.104.139" dyno=web.1 connect=1ms service=6ms status=200 bytes=279 protocol=https
+2019-01-02T22:37:39.360984+00:00 app[web.1]: [getAllBlocks]: Found repo morejust/orgb1
+2019-01-02T22:37:39.361004+00:00 app[web.1]: [getAllBlocks]: Found repo morejust/orgb2
+2019-01-02T22:37:39.361006+00:00 app[web.1]: [getAllBlocks]: Found repo morejust/orgb3
+2019-01-02T22:37:39.361054+00:00 app[web.1]: [getAllBlocks]: Found repo morejust/orgb4
+2019-01-02T22:37:39.361060+00:00 app[web.1]: [getAllBlocks]: Found repo morejust/orgb5
+2019-01-02T22:37:39.361111+00:00 app[web.1]: [getAllBlocks]: Found repo morejust/orgb6
+2019-01-02T22:37:39.361152+00:00 app[web.1]: [getAllBlocks]: Found repo morejust/orgb7
+2019-01-02T22:37:39.361193+00:00 app[web.1]: [getAllBlocks]: Found repo morejust/orgb8
+2019-01-02T22:37:39.361233+00:00 app[web.1]: [getAllBlocks]: Found repo morejust/orgb9
+2019-01-02T22:37:39.361253+00:00 app[web.1]: [getAllBlocks]: Found repo morejust/orgb10
+2019-01-02T22:37:39.361304+00:00 app[web.1]: [getAllBlocks]: Found repo morejust/orgb11
+2019-01-02T22:37:39.361345+00:00 app[web.1]: [getAllBlocks]: Found repo morejust/orgb12
+2019-01-02T22:37:39.361383+00:00 app[web.1]: [getAllBlocks]: Found repo morejust/orgb13
+2019-01-02T22:37:39.361421+00:00 app[web.1]: [getAllBlocks]: Found repo morejust/orgb14
+2019-01-02T22:37:39.361460+00:00 app[web.1]: [getAllBlocks]: Found repo morejust/orgb15
+2019-01-02T22:37:39.361501+00:00 app[web.1]: [getAllBlocks]: Found repo morejust/orgb16
+2019-01-02T22:37:39.361546+00:00 app[web.1]: [getAllBlocks]: Found repo morejust/orgb17
+2019-01-02T22:37:39.361567+00:00 app[web.1]: [getAllBlocks]: Found repo morejust/orgb18
+2019-01-02T22:37:39.361612+00:00 app[web.1]: [getAllBlocks]: Found repo morejust/orgb19
+2019-01-02T22:37:39.361632+00:00 app[web.1]: [getAllBlocks]: Found repo morejust/orgb20
+2019-01-02T22:37:39.361698+00:00 app[web.1]: [getAllBlocks]: Found repo morejust/orgb21
+2019-01-02T22:37:39.361718+00:00 app[web.1]: [getAllBlocks]: Found repo morejust/orgb22
+2019-01-02T22:37:39.361767+00:00 app[web.1]: [getAllBlocks]: Found repo morejust/orgb23
+2019-01-02T22:37:39.361815+00:00 app[web.1]: [getAllBlocks]: Found repo morejust/orgb24
+2019-01-02T22:37:39.361835+00:00 app[web.1]: [getAllBlocks]: Found repo morejust/orgb25
+2019-01-02T22:37:39.362087+00:00 app[web.1]: (node:4) UnhandledPromiseRejectionWarning: TypeError: Cannot read property 'size' of undefined
+2019-01-02T22:37:39.362091+00:00 app[web.1]:     at getAllBlocks.then.blocks (/app/repo.js:69:79)
+2019-01-02T22:37:39.362093+00:00 app[web.1]:     at process._tickCallback (internal/process/next_tick.js:68:7)
+2019-01-02T22:37:39.362141+00:00 app[web.1]: (node:4) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 93)
+2019-01-02T22:37:41.895997+00:00 heroku[router]: at=info method=POST path="/initialInfo" host=morejust.herokuapp.com request_id=bfef1816-48c9-4c39-89cd-94f8e3f5d28f fwd="46.133.104.139" dyno=web.1 connect=2ms service=3ms status=200 bytes=279 protocol=https
+2019-01-02T22:37:42.803538+00:00 app[web.1]: [getAllBlocks]: Found repo morejust/orgb1
+2019-01-02T22:37:42.803559+00:00 app[web.1]: [getAllBlocks]: Found repo morejust/orgb2
+2019-01-02T22:37:42.803586+00:00 app[web.1]: [getAllBlocks]: Found repo morejust/orgb3
+2019-01-02T22:37:42.803604+00:00 app[web.1]: [getAllBlocks]: Found repo morejust/orgb4
+2019-01-02T22:37:42.803630+00:00 app[web.1]: [getAllBlocks]: Found repo morejust/orgb5
+2019-01-02T22:37:42.803652+00:00 app[web.1]: [getAllBlocks]: Found repo morejust/orgb6
+2019-01-02T22:37:42.803695+00:00 app[web.1]: [getAllBlocks]: Found repo morejust/orgb7
+2019-01-02T22:37:42.803759+00:00 app[web.1]: [getAllBlocks]: Found repo morejust/orgb8
+2019-01-02T22:37:42.803779+00:00 app[web.1]: [getAllBlocks]: Found repo morejust/orgb9
+2019-01-02T22:37:42.803806+00:00 app[web.1]: [getAllBlocks]: Found repo morejust/orgb10
+2019-01-02T22:37:42.803864+00:00 app[web.1]: [getAllBlocks]: Found repo morejust/orgb11
+2019-01-02T22:37:42.803866+00:00 app[web.1]: [getAllBlocks]: Found repo morejust/orgb12
+2019-01-02T22:37:42.803868+00:00 app[web.1]: [getAllBlocks]: Found repo morejust/orgb13
+2019-01-02T22:37:42.803873+00:00 app[web.1]: [getAllBlocks]: Found repo morejust/orgb14
+2019-01-02T22:37:42.803903+00:00 app[web.1]: [getAllBlocks]: Found repo morejust/orgb15
+2019-01-02T22:37:42.803907+00:00 app[web.1]: [getAllBlocks]: Found repo morejust/orgb16
+2019-01-02T22:37:42.803935+00:00 app[web.1]: [getAllBlocks]: Found repo morejust/orgb17
+2019-01-02T22:37:42.803938+00:00 app[web.1]: [getAllBlocks]: Found repo morejust/orgb18
+2019-01-02T22:37:42.803970+00:00 app[web.1]: [getAllBlocks]: Found repo morejust/orgb19
+2019-01-02T22:37:42.803994+00:00 app[web.1]: [getAllBlocks]: Found repo morejust/orgb20
+2019-01-02T22:37:42.804045+00:00 app[web.1]: [getAllBlocks]: Found repo morejust/orgb21
+2019-01-02T22:37:42.804047+00:00 app[web.1]: [getAllBlocks]: Found repo morejust/orgb22
+2019-01-02T22:37:42.804051+00:00 app[web.1]: [getAllBlocks]: Found repo morejust/orgb23
+2019-01-02T22:37:42.804089+00:00 app[web.1]: [getAllBlocks]: Found repo morejust/orgb24
+2019-01-02T22:37:42.804120+00:00 app[web.1]: [getAllBlocks]: Found repo morejust/orgb25
+2019-01-02T22:37:42.804358+00:00 app[web.1]: (node:4) UnhandledPromiseRejectionWarning: TypeError: Cannot read property 'size' of undefined
+2019-01-02T22:37:42.804360+00:00 app[web.1]:     at getAllBlocks.then.blocks (/app/repo.js:69:79)
+2019-01-02T22:37:42.804362+00:00 app[web.1]:     at process._tickCallback (internal/process/next_tick.js:68:7)
+2019-01-02T22:37:42.804419+00:00 app[web.1]: (node:4) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 94)
+2019-01-02T22:37:55.929294+00:00 heroku[router]: sock=client at=warning code=H27 desc="Client Request Interrupted" method=POST path="/upload" host=morejust.herokuapp.com request_id=46c04cc4-289f-4889-9a57-499aad9dc25d fwd="170.80.49.143" dyno=web.1 connect=0ms service=111633ms status=499 bytes=0 protocol=https
+2019-01-02T22:38:08.646724+00:00 heroku[router]: at=error code=H12 desc="Request timeout" method=POST path="/stats" host=morejust.herokuapp.com request_id=7d72996d-c02f-499e-b98b-80c4c91b682f fwd="46.133.104.139" dyno=web.1 connect=0ms service=30000ms status=503 bytes=0 protocol=https
+2019-01-02T22:38:09.095615+00:00 heroku[router]: at=info method=POST path="/initialInfo" host=morejust.herokuapp.com request_id=a8d8aac1-51ae-4850-8646-f18ab4581d08 fwd="46.133.104.139" dyno=web.1 connect=1ms service=1ms status=200 bytes=279 protocol=https
+2019-01-02T22:38:09.834337+00:00 app[web.1]: [getAllBlocks]: Found repo morejust/orgb1
+2019-01-02T22:38:09.834353+00:00 app[web.1]: [getAllBlocks]: Found repo morejust/orgb2
+2019-01-02T22:38:09.834355+00:00 app[web.1]: [getAllBlocks]: Found repo morejust/orgb3
+2019-01-02T22:38:09.834381+00:00 app[web.1]: [getAllBlocks]: Found repo morejust/orgb4
+2019-01-02T22:38:09.834401+00:00 app[web.1]: [getAllBlocks]: Found repo morejust/orgb5
+2019-01-02T22:38:09.834422+00:00 app[web.1]: [getAllBlocks]: Found repo morejust/orgb6
+2019-01-02T22:38:09.834444+00:00 app[web.1]: [getAllBlocks]: Found repo morejust/orgb7
+2019-01-02T22:38:09.834485+00:00 app[web.1]: [getAllBlocks]: Found repo morejust/orgb8
+2019-01-02T22:38:09.834533+00:00 app[web.1]: [getAllBlocks]: Found repo morejust/orgb9
+2019-01-02T22:38:09.834558+00:00 app[web.1]: [getAllBlocks]: Found repo morejust/orgb10
+2019-01-02T22:38:09.834582+00:00 app[web.1]: [getAllBlocks]: Found repo morejust/orgb11
+2019-01-02T22:38:09.834601+00:00 app[web.1]: [getAllBlocks]: Found repo morejust/orgb12
+2019-01-02T22:38:09.834622+00:00 app[web.1]: [getAllBlocks]: Found repo morejust/orgb13
+2019-01-02T22:38:09.834648+00:00 app[web.1]: [getAllBlocks]: Found repo morejust/orgb14
+2019-01-02T22:38:09.834670+00:00 app[web.1]: [getAllBlocks]: Found repo morejust/orgb15
+2019-01-02T22:38:09.834693+00:00 app[web.1]: [getAllBlocks]: Found repo morejust/orgb16
+2019-01-02T22:38:09.834715+00:00 app[web.1]: [getAllBlocks]: Found repo morejust/orgb17
+2019-01-02T22:38:09.834738+00:00 app[web.1]: [getAllBlocks]: Found repo morejust/orgb18
+2019-01-02T22:38:09.834763+00:00 app[web.1]: [getAllBlocks]: Found repo morejust/orgb19
+2019-01-02T22:38:09.834784+00:00 app[web.1]: [getAllBlocks]: Found repo morejust/orgb20
+2019-01-02T22:38:09.834814+00:00 app[web.1]: [getAllBlocks]: Found repo morejust/orgb21
+2019-01-02T22:38:09.834836+00:00 app[web.1]: [getAllBlocks]: Found repo morejust/orgb22
+2019-01-02T22:38:09.834865+00:00 app[web.1]: [getAllBlocks]: Found repo morejust/orgb23
+2019-01-02T22:38:09.834887+00:00 app[web.1]: [getAllBlocks]: Found repo morejust/orgb24
+2019-01-02T22:38:09.834910+00:00 app[web.1]: [getAllBlocks]: Found repo morejust/orgb25
+2019-01-02T22:38:09.835135+00:00 app[web.1]: (node:4) UnhandledPromiseRejectionWarning: TypeError: Cannot read property 'size' of undefined
+2019-01-02T22:38:09.835137+00:00 app[web.1]:     at getAllBlocks.then.blocks (/app/repo.js:69:79)
+2019-01-02T22:38:09.835139+00:00 app[web.1]:     at process._tickCallback (internal/process/next_tick.js:68:7)
+2019-01-02T22:38:09.835177+00:00 app[web.1]: (node:4) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 95)
+2019-01-02T22:38:11.993062+00:00 heroku[router]: at=error code=H12 desc="Request timeout" method=POST path="/stats" host=morejust.herokuapp.com request_id=3ad76417-5e8f-4103-9099-0c9172e1d551 fwd="46.133.104.139" dyno=web.1 connect=1ms service=30001ms status=503 bytes=0 protocol=https
+2019-01-02T22:38:39.140335+00:00 heroku[router]: at=error code=H12 desc="Request timeout" method=POST path="/stats" host=morejust.herokuapp.com request_id=013fcf16-9f94-4808-95ef-f22b081fab97 fwd="46.133.104.139" dyno=web.1 connect=0ms service=30000ms status=503 bytes=0 protocol=https
+2019-01-02T22:39:07.671769+00:00 heroku[router]: at=info method=POST path="/initialInfo" host=morejust.herokuapp.com request_id=8e35c938-c6b1-4726-bcd8-d21daba0ff21 fwd="70.97.122.94" dyno=web.1 connect=1ms service=2ms status=200 bytes=279 protocol=https
+2019-01-02T22:39:08.480174+00:00 app[web.1]: [getAllBlocks]: Found repo morejust/orgb1
+2019-01-02T22:39:08.480192+00:00 app[web.1]: [getAllBlocks]: Found repo morejust/orgb2
+2019-01-02T22:39:08.480247+00:00 app[web.1]: [getAllBlocks]: Found repo morejust/orgb3
+2019-01-02T22:39:08.480289+00:00 app[web.1]: [getAllBlocks]: Found repo morejust/orgb4
+2019-01-02T22:39:08.480338+00:00 app[web.1]: [getAllBlocks]: Found repo morejust/orgb5
+2019-01-02T22:39:08.480383+00:00 app[web.1]: [getAllBlocks]: Found repo morejust/orgb6
+2019-01-02T22:39:08.480443+00:00 app[web.1]: [getAllBlocks]: Found repo morejust/orgb7
+2019-01-02T22:39:08.480482+00:00 app[web.1]: [getAllBlocks]: Found repo morejust/orgb8
+2019-01-02T22:39:08.480526+00:00 app[web.1]: [getAllBlocks]: Found repo morejust/orgb9
+2019-01-02T22:39:08.480583+00:00 app[web.1]: [getAllBlocks]: Found repo morejust/orgb10
+2019-01-02T22:39:08.480628+00:00 app[web.1]: [getAllBlocks]: Found repo morejust/orgb11
+2019-01-02T22:39:08.480671+00:00 app[web.1]: [getAllBlocks]: Found repo morejust/orgb12
+2019-01-02T22:39:08.480741+00:00 app[web.1]: [getAllBlocks]: Found repo morejust/orgb13
+2019-01-02T22:39:08.480787+00:00 app[web.1]: [getAllBlocks]: Found repo morejust/orgb14
+2019-01-02T22:39:08.480834+00:00 app[web.1]: [getAllBlocks]: Found repo morejust/orgb15
+2019-01-02T22:39:08.480873+00:00 app[web.1]: [getAllBlocks]: Found repo morejust/orgb16
+2019-01-02T22:39:08.480917+00:00 app[web.1]: [getAllBlocks]: Found repo morejust/orgb17
+2019-01-02T22:39:08.480963+00:00 app[web.1]: [getAllBlocks]: Found repo morejust/orgb18
+2019-01-02T22:39:08.481002+00:00 app[web.1]: [getAllBlocks]: Found repo morejust/orgb19
+2019-01-02T22:39:08.481051+00:00 app[web.1]: [getAllBlocks]: Found repo morejust/orgb20
+2019-01-02T22:39:08.481109+00:00 app[web.1]: [getAllBlocks]: Found repo morejust/orgb21
+2019-01-02T22:39:08.481150+00:00 app[web.1]: [getAllBlocks]: Found repo morejust/orgb22
+2019-01-02T22:39:08.481201+00:00 app[web.1]: [getAllBlocks]: Found repo morejust/orgb23
+2019-01-02T22:39:08.481247+00:00 app[web.1]: [getAllBlocks]: Found repo morejust/orgb24
+2019-01-02T22:39:08.481291+00:00 app[web.1]: [getAllBlocks]: Found repo morejust/orgb25
+2019-01-02T22:39:08.481602+00:00 app[web.1]: (node:4) UnhandledPromiseRejectionWarning: TypeError: Cannot read property 'size' of undefined
+2019-01-02T22:39:08.481603+00:00 app[web.1]:     at getAllBlocks.then.blocks (/app/repo.js:69:79)
+2019-01-02T22:39:08.481605+00:00 app[web.1]:     at process._tickCallback (internal/process/next_tick.js:68:7)
+2019-01-02T22:39:08.481674+00:00 app[web.1]: (node:4) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 96)
+2019-01-02T22:39:21.815037+00:00 heroku[router]: at=info method=POST path="/initialInfo" host=morejust.herokuapp.com request_id=ed393e76-08d4-4371-8c2d-0f98d098cfab fwd="80.56.132.231" dyno=web.1 connect=1ms service=3ms status=200 bytes=279 protocol=https
+2019-01-02T22:39:22.562027+00:00 app[web.1]: [getAllBlocks]: Found repo morejust/orgb1
+2019-01-02T22:39:22.562290+00:00 app[web.1]: [getAllBlocks]: Found repo morejust/orgb2
+2019-01-02T22:39:22.562293+00:00 app[web.1]: [getAllBlocks]: Found repo morejust/orgb3
+2019-01-02T22:39:22.562294+00:00 app[web.1]: [getAllBlocks]: Found repo morejust/orgb4
+2019-01-02T22:39:22.562295+00:00 app[web.1]: [getAllBlocks]: Found repo morejust/orgb5
+2019-01-02T22:39:22.562296+00:00 app[web.1]: [getAllBlocks]: Found repo morejust/orgb6
+2019-01-02T22:39:22.562302+00:00 app[web.1]: [getAllBlocks]: Found repo morejust/orgb7
+2019-01-02T22:39:22.562304+00:00 app[web.1]: [getAllBlocks]: Found repo morejust/orgb8
+2019-01-02T22:39:22.562305+00:00 app[web.1]: [getAllBlocks]: Found repo morejust/orgb9
+2019-01-02T22:39:22.562306+00:00 app[web.1]: [getAllBlocks]: Found repo morejust/orgb10
+2019-01-02T22:39:22.562307+00:00 app[web.1]: [getAllBlocks]: Found repo morejust/orgb11
+2019-01-02T22:39:22.562310+00:00 app[web.1]: [getAllBlocks]: Found repo morejust/orgb12
+2019-01-02T22:39:22.562351+00:00 app[web.1]: [getAllBlocks]: Found repo morejust/orgb13
+2019-01-02T22:39:22.562389+00:00 app[web.1]: [getAllBlocks]: Found repo morejust/orgb14
+2019-01-02T22:39:22.562427+00:00 app[web.1]: [getAllBlocks]: Found repo morejust/orgb15
+2019-01-02T22:39:22.562457+00:00 app[web.1]: [getAllBlocks]: Found repo morejust/orgb16
+2019-01-02T22:39:22.562532+00:00 app[web.1]: [getAllBlocks]: Found repo morejust/orgb17
+2019-01-02T22:39:22.562539+00:00 app[web.1]: [getAllBlocks]: Found repo morejust/orgb18
+2019-01-02T22:39:22.562596+00:00 app[web.1]: [getAllBlocks]: Found repo morejust/orgb19
+2019-01-02T22:39:22.562626+00:00 app[web.1]: [getAllBlocks]: Found repo morejust/orgb20
+2019-01-02T22:39:22.562699+00:00 app[web.1]: [getAllBlocks]: Found repo morejust/orgb21
+2019-01-02T22:39:22.562730+00:00 app[web.1]: [getAllBlocks]: Found repo morejust/orgb22
+2019-01-02T22:39:22.562790+00:00 app[web.1]: [getAllBlocks]: Found repo morejust/orgb23
+2019-01-02T22:39:22.562811+00:00 app[web.1]: [getAllBlocks]: Found repo morejust/orgb24
+2019-01-02T22:39:22.562858+00:00 app[web.1]: [getAllBlocks]: Found repo morejust/orgb25
+2019-01-02T22:39:22.563101+00:00 app[web.1]: (node:4) UnhandledPromiseRejectionWarning: TypeError: Cannot read property 'size' of undefined
+2019-01-02T22:39:22.563104+00:00 app[web.1]:     at getAllBlocks.then.blocks (/app/repo.js:69:79)
+2019-01-02T22:39:22.563106+00:00 app[web.1]:     at process._tickCallback (internal/process/next_tick.js:68:7)
+2019-01-02T22:39:22.563155+00:00 app[web.1]: (node:4) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 97)
+2019-01-02T22:39:37.667025+00:00 heroku[router]: at=error code=H12 desc="Request timeout" method=POST path="/stats" host=morejust.herokuapp.com request_id=ea6a99d3-05b5-4769-9f30-0733893ee372 fwd="70.97.122.94" dyno=web.1 connect=1ms service=30000ms status=503 bytes=0 protocol=https
+2019-01-02T22:39:51.812554+00:00 heroku[router]: at=error code=H12 desc="Request timeout" method=POST path="/stats" host=morejust.herokuapp.com request_id=0d471175-d08a-4026-b2b8-1c59bca8c4ae fwd="80.56.132.231" dyno=web.1 connect=0ms service=30000ms status=503 bytes=0 protocol=https
+2019-01-02T22:41:26.729851+00:00 heroku[router]: at=info method=POST path="/initialInfo" host=morejust.herokuapp.com request_id=579c08c7-e6cd-415b-a828-beebb1f4a581 fwd="217.105.41.27" dyno=web.1 connect=1ms service=3ms status=200 bytes=279 protocol=https
+2019-01-02T22:41:27.518863+00:00 app[web.1]: [getAllBlocks]: Found repo morejust/orgb1
+2019-01-02T22:41:27.518881+00:00 app[web.1]: [getAllBlocks]: Found repo morejust/orgb2
+2019-01-02T22:41:27.518915+00:00 app[web.1]: [getAllBlocks]: Found repo morejust/orgb3
+2019-01-02T22:41:27.518936+00:00 app[web.1]: [getAllBlocks]: Found repo morejust/orgb4
+2019-01-02T22:41:27.518957+00:00 app[web.1]: [getAllBlocks]: Found repo morejust/orgb5
+2019-01-02T22:41:27.518979+00:00 app[web.1]: [getAllBlocks]: Found repo morejust/orgb6
+2019-01-02T22:41:27.519001+00:00 app[web.1]: [getAllBlocks]: Found repo morejust/orgb7
+2019-01-02T22:41:27.519026+00:00 app[web.1]: [getAllBlocks]: Found repo morejust/orgb8
+2019-01-02T22:41:27.519048+00:00 app[web.1]: [getAllBlocks]: Found repo morejust/orgb9
+2019-01-02T22:41:27.519069+00:00 app[web.1]: [getAllBlocks]: Found repo morejust/orgb10
+2019-01-02T22:41:27.519091+00:00 app[web.1]: [getAllBlocks]: Found repo morejust/orgb11
+2019-01-02T22:41:27.519121+00:00 app[web.1]: [getAllBlocks]: Found repo morejust/orgb12
+2019-01-02T22:41:27.519142+00:00 app[web.1]: [getAllBlocks]: Found repo morejust/orgb13
+2019-01-02T22:41:27.519170+00:00 app[web.1]: [getAllBlocks]: Found repo morejust/orgb14
+2019-01-02T22:41:27.519192+00:00 app[web.1]: [getAllBlocks]: Found repo morejust/orgb15
+2019-01-02T22:41:27.519210+00:00 app[web.1]: [getAllBlocks]: Found repo morejust/orgb16
+2019-01-02T22:41:27.519235+00:00 app[web.1]: [getAllBlocks]: Found repo morejust/orgb17
+2019-01-02T22:41:27.519257+00:00 app[web.1]: [getAllBlocks]: Found repo morejust/orgb18
+2019-01-02T22:41:27.519282+00:00 app[web.1]: [getAllBlocks]: Found repo morejust/orgb19
+2019-01-02T22:41:27.519303+00:00 app[web.1]: [getAllBlocks]: Found repo morejust/orgb20
+2019-01-02T22:41:27.519338+00:00 app[web.1]: [getAllBlocks]: Found repo morejust/orgb21
+2019-01-02T22:41:27.519363+00:00 app[web.1]: [getAllBlocks]: Found repo morejust/orgb22
+2019-01-02T22:41:27.519384+00:00 app[web.1]: [getAllBlocks]: Found repo morejust/orgb23
+2019-01-02T22:41:27.519413+00:00 app[web.1]: [getAllBlocks]: Found repo morejust/orgb24
+2019-01-02T22:41:27.519436+00:00 app[web.1]: [getAllBlocks]: Found repo morejust/orgb25
+2019-01-02T22:41:27.519701+00:00 app[web.1]: (node:4) UnhandledPromiseRejectionWarning: TypeError: Cannot read property 'size' of undefined
+2019-01-02T22:41:27.519704+00:00 app[web.1]:     at getAllBlocks.then.blocks (/app/repo.js:69:79)
+2019-01-02T22:41:27.519706+00:00 app[web.1]:     at process._tickCallback (internal/process/next_tick.js:68:7)
+2019-01-02T22:41:27.519712+00:00 app[web.1]: (node:4) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 98)
+2019-01-02T22:41:46.855205+00:00 heroku[router]: at=info method=POST path="/initialInfo" host=morejust.herokuapp.com request_id=c00e06b8-84cf-4da7-b514-44093d00b14a fwd="31.14.75.57" dyno=web.1 connect=1ms service=3ms status=200 bytes=279 protocol=https
+2019-01-02T22:41:47.717812+00:00 app[web.1]: [getAllBlocks]: Found repo morejust/orgb1
+2019-01-02T22:41:47.717831+00:00 app[web.1]: [getAllBlocks]: Found repo morejust/orgb2
+2019-01-02T22:41:47.717833+00:00 app[web.1]: [getAllBlocks]: Found repo morejust/orgb3
+2019-01-02T22:41:47.717863+00:00 app[web.1]: [getAllBlocks]: Found repo morejust/orgb4
+2019-01-02T22:41:47.717883+00:00 app[web.1]: [getAllBlocks]: Found repo morejust/orgb5
+2019-01-02T22:41:47.717904+00:00 app[web.1]: [getAllBlocks]: Found repo morejust/orgb6
+2019-01-02T22:41:47.717925+00:00 app[web.1]: [getAllBlocks]: Found repo morejust/orgb7
+2019-01-02T22:41:47.717952+00:00 app[web.1]: [getAllBlocks]: Found repo morejust/orgb8
+2019-01-02T22:41:47.717978+00:00 app[web.1]: [getAllBlocks]: Found repo morejust/orgb9
+2019-01-02T22:41:47.717982+00:00 app[web.1]: [getAllBlocks]: Found repo morejust/orgb10
+2019-01-02T22:41:47.718011+00:00 app[web.1]: [getAllBlocks]: Found repo morejust/orgb11
+2019-01-02T22:41:47.718031+00:00 app[web.1]: [getAllBlocks]: Found repo morejust/orgb12
+2019-01-02T22:41:47.718057+00:00 app[web.1]: [getAllBlocks]: Found repo morejust/orgb13
+2019-01-02T22:41:47.718079+00:00 app[web.1]: [getAllBlocks]: Found repo morejust/orgb14
+2019-01-02T22:41:47.718101+00:00 app[web.1]: [getAllBlocks]: Found repo morejust/orgb15
+2019-01-02T22:41:47.718122+00:00 app[web.1]: [getAllBlocks]: Found repo morejust/orgb16
+2019-01-02T22:41:47.718143+00:00 app[web.1]: [getAllBlocks]: Found repo morejust/orgb17
+2019-01-02T22:41:47.718169+00:00 app[web.1]: [getAllBlocks]: Found repo morejust/orgb18
+2019-01-02T22:41:47.718190+00:00 app[web.1]: [getAllBlocks]: Found repo morejust/orgb19
+2019-01-02T22:41:47.718212+00:00 app[web.1]: [getAllBlocks]: Found repo morejust/orgb20
+2019-01-02T22:41:47.718242+00:00 app[web.1]: [getAllBlocks]: Found repo morejust/orgb21
+2019-01-02T22:41:47.718271+00:00 app[web.1]: [getAllBlocks]: Found repo morejust/orgb22
+2019-01-02T22:41:47.718294+00:00 app[web.1]: [getAllBlocks]: Found repo morejust/orgb23
+2019-01-02T22:41:47.718316+00:00 app[web.1]: [getAllBlocks]: Found repo morejust/orgb24
+2019-01-02T22:41:47.718341+00:00 app[web.1]: [getAllBlocks]: Found repo morejust/orgb25
+2019-01-02T22:41:47.718599+00:00 app[web.1]: (node:4) UnhandledPromiseRejectionWarning: TypeError: Cannot read property 'size' of undefined
+2019-01-02T22:41:47.718601+00:00 app[web.1]:     at getAllBlocks.then.blocks (/app/repo.js:69:79)
+2019-01-02T22:41:47.718603+00:00 app[web.1]:     at process._tickCallback (internal/process/next_tick.js:68:7)
+2019-01-02T22:41:47.718637+00:00 app[web.1]: (node:4) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 99)
+2019-01-02T22:41:56.759268+00:00 heroku[router]: at=error code=H12 desc="Request timeout" method=POST path="/stats" host=morejust.herokuapp.com request_id=e8fd6e10-be67-4640-8d6c-3c088d0a5942 fwd="217.105.41.27" dyno=web.1 connect=1ms service=30001ms status=503 bytes=0 protocol=https
+2019-01-02T22:42:16.850342+00:00 heroku[router]: at=error code=H12 desc="Request timeout" method=POST path="/stats" host=morejust.herokuapp.com request_id=e0ecee32-c708-4a11-9d50-4c3a7145b161 fwd="31.14.75.57" dyno=web.1 connect=0ms service=30000ms status=503 bytes=0 protocol=https
+2019-01-02T22:43:47.102460+00:00 heroku[router]: at=info method=POST path="/initialInfo" host=morejust.herokuapp.com request_id=cbcec3fa-95da-450b-be59-9142e3097603 fwd="84.227.183.26" dyno=web.1 connect=1ms service=1ms status=200 bytes=279 protocol=https
+2019-01-02T22:43:47.804711+00:00 app[web.1]: [getAllBlocks]: Found repo morejust/orgb1
+2019-01-02T22:43:47.804737+00:00 app[web.1]: [getAllBlocks]: Found repo morejust/orgb2
+2019-01-02T22:43:47.804741+00:00 app[web.1]: [getAllBlocks]: Found repo morejust/orgb3
+2019-01-02T22:43:47.804796+00:00 app[web.1]: [getAllBlocks]: Found repo morejust/orgb4
+2019-01-02T22:43:47.804816+00:00 app[web.1]: [getAllBlocks]: Found repo morejust/orgb5
+2019-01-02T22:43:47.804863+00:00 app[web.1]: [getAllBlocks]: Found repo morejust/orgb6
+2019-01-02T22:43:47.804906+00:00 app[web.1]: [getAllBlocks]: Found repo morejust/orgb7
+2019-01-02T22:43:47.804926+00:00 app[web.1]: [getAllBlocks]: Found repo morejust/orgb8
+2019-01-02T22:43:47.804976+00:00 app[web.1]: [getAllBlocks]: Found repo morejust/orgb9
+2019-01-02T22:43:47.804994+00:00 app[web.1]: [getAllBlocks]: Found repo morejust/orgb10
+2019-01-02T22:43:47.805043+00:00 app[web.1]: [getAllBlocks]: Found repo morejust/orgb11
+2019-01-02T22:43:47.805087+00:00 app[web.1]: [getAllBlocks]: Found repo morejust/orgb12
+2019-01-02T22:43:47.805124+00:00 app[web.1]: [getAllBlocks]: Found repo morejust/orgb13
+2019-01-02T22:43:47.805166+00:00 app[web.1]: [getAllBlocks]: Found repo morejust/orgb14
+2019-01-02T22:43:47.805204+00:00 app[web.1]: [getAllBlocks]: Found repo morejust/orgb15
+2019-01-02T22:43:47.805246+00:00 app[web.1]: [getAllBlocks]: Found repo morejust/orgb16
+2019-01-02T22:43:47.805291+00:00 app[web.1]: [getAllBlocks]: Found repo morejust/orgb17
+2019-01-02T22:43:47.805330+00:00 app[web.1]: [getAllBlocks]: Found repo morejust/orgb18
+2019-01-02T22:43:47.805368+00:00 app[web.1]: [getAllBlocks]: Found repo morejust/orgb19
+2019-01-02T22:43:47.805412+00:00 app[web.1]: [getAllBlocks]: Found repo morejust/orgb20
+2019-01-02T22:43:47.805468+00:00 app[web.1]: [getAllBlocks]: Found repo morejust/orgb21
+2019-01-02T22:43:47.805531+00:00 app[web.1]: [getAllBlocks]: Found repo morejust/orgb22
+2019-01-02T22:43:47.805574+00:00 app[web.1]: [getAllBlocks]: Found repo morejust/orgb23
+2019-01-02T22:43:47.805620+00:00 app[web.1]: [getAllBlocks]: Found repo morejust/orgb24
+2019-01-02T22:43:47.805638+00:00 app[web.1]: [getAllBlocks]: Found repo morejust/orgb25
+2019-01-02T22:43:47.805888+00:00 app[web.1]: (node:4) UnhandledPromiseRejectionWarning: TypeError: Cannot read property 'size' of undefined
+2019-01-02T22:43:47.805891+00:00 app[web.1]:     at getAllBlocks.then.blocks (/app/repo.js:69:79)
+2019-01-02T22:43:47.805893+00:00 app[web.1]:     at process._tickCallback (internal/process/next_tick.js:68:7)
+2019-01-02T22:43:47.805944+00:00 app[web.1]: (node:4) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 100)
+2019-01-02T22:44:17.103608+00:00 heroku[router]: at=error code=H12 desc="Request timeout" method=POST path="/stats" host=morejust.herokuapp.com request_id=fb68144c-874c-444c-9489-11d79cf5d4c3 fwd="84.227.183.26" dyno=web.1 connect=0ms service=30001ms status=503 bytes=0 protocol=https
+2019-01-02T22:44:19.762409+00:00 heroku[web.1]: Restarting
+2019-01-02T22:44:20.045974+00:00 heroku[web.1]: State changed from up to starting
+2019-01-02T22:44:18.531182+00:00 app[api]: Remove GITHUB_USERNAME config vars by user mr.kirillov@icloud.com
+2019-01-02T22:44:18.531182+00:00 app[api]: Release v174 created by user mr.kirillov@icloud.com
+2019-01-02T22:44:21.039166+00:00 heroku[web.1]: Stopping all processes with SIGTERM
+2019-01-02T22:44:21.139173+00:00 heroku[web.1]: Process exited with status 143
+2019-01-02T22:44:23.254766+00:00 heroku[web.1]: Starting process with command `node app.js`
+2019-01-02T22:44:27.274938+00:00 heroku[web.1]: State changed from starting to up
+2019-01-02T22:44:26.802712+00:00 app[web.1]: [getAllBlocks]: Found repo morejust/orgb1
+2019-01-02T22:44:26.802888+00:00 app[web.1]: 😎 Set up owner: morejust
+2019-01-02T22:44:26.802971+00:00 app[web.1]: [getAllBlocks]: Found repo morejust/orgb2
+2019-01-02T22:44:26.803043+00:00 app[web.1]: [getAllBlocks]: Found repo morejust/orgb3
+2019-01-02T22:44:26.803113+00:00 app[web.1]: [getAllBlocks]: Found repo morejust/orgb4
+2019-01-02T22:44:26.803178+00:00 app[web.1]: [getAllBlocks]: Found repo morejust/orgb5
+2019-01-02T22:44:26.803237+00:00 app[web.1]: [getAllBlocks]: Found repo morejust/orgb6
+2019-01-02T22:44:26.803296+00:00 app[web.1]: [getAllBlocks]: Found repo morejust/orgb7
+2019-01-02T22:44:26.803360+00:00 app[web.1]: [getAllBlocks]: Found repo morejust/orgb8
+2019-01-02T22:44:26.803425+00:00 app[web.1]: [getAllBlocks]: Found repo morejust/orgb9
+2019-01-02T22:44:26.803484+00:00 app[web.1]: [getAllBlocks]: Found repo morejust/orgb10
+2019-01-02T22:44:26.803548+00:00 app[web.1]: [getAllBlocks]: Found repo morejust/orgb11
+2019-01-02T22:44:26.803607+00:00 app[web.1]: [getAllBlocks]: Found repo morejust/orgb12
+2019-01-02T22:44:26.803663+00:00 app[web.1]: [getAllBlocks]: Found repo morejust/orgb13
+2019-01-02T22:44:26.803730+00:00 app[web.1]: [getAllBlocks]: Found repo morejust/orgb14
+2019-01-02T22:44:26.803787+00:00 app[web.1]: [getAllBlocks]: Found repo morejust/orgb15
+2019-01-02T22:44:26.803851+00:00 app[web.1]: [getAllBlocks]: Found repo morejust/orgb16
+2019-01-02T22:44:26.803900+00:00 app[web.1]: [getAllBlocks]: Found repo morejust/orgb17
+2019-01-02T22:44:26.803992+00:00 app[web.1]: [getAllBlocks]: Found repo morejust/orgb18
+2019-01-02T22:44:26.804073+00:00 app[web.1]: [getAllBlocks]: Found repo morejust/orgb19
+2019-01-02T22:44:26.804168+00:00 app[web.1]: [getAllBlocks]: Found repo morejust/orgb20
+2019-01-02T22:44:26.804268+00:00 app[web.1]: [getAllBlocks]: Found repo morejust/orgb21
+2019-01-02T22:44:26.804337+00:00 app[web.1]: [getAllBlocks]: Found repo morejust/orgb22
+2019-01-02T22:44:26.804437+00:00 app[web.1]: [getAllBlocks]: Found repo morejust/orgb23
+2019-01-02T22:44:26.804490+00:00 app[web.1]: [getAllBlocks]: Found repo morejust/orgb24
+2019-01-02T22:44:26.804550+00:00 app[web.1]: [getAllBlocks]: Found repo morejust/orgb25
+2019-01-02T22:44:26.804984+00:00 app[web.1]: [SwitchBlocks]: Selecting orgb1
+2019-01-02T22:44:26.805121+00:00 app[web.1]: [connectToGithub]: New working block is orgb1
+2019-01-02T22:44:26.805272+00:00 app[web.1]: [Server]: Working with orgb1
+2019-01-02T22:44:26.810110+00:00 app[web.1]: [Server]: App is open on port 23924
+2019-01-02T22:44:53.321624+00:00 heroku[router]: at=info method=POST path="/initialInfo" host=morejust.herokuapp.com request_id=0a663104-310f-4688-8ad2-d1081d2e9a3e fwd="46.133.104.139" dyno=web.1 connect=1ms service=17ms status=200 bytes=279 protocol=https
+2019-01-02T22:44:54.070595+00:00 app[web.1]: [getAllBlocks]: Found repo morejust/orgb1
+2019-01-02T22:44:54.070790+00:00 app[web.1]: [getAllBlocks]: Found repo morejust/orgb2
+2019-01-02T22:44:54.070871+00:00 app[web.1]: [getAllBlocks]: Found repo morejust/orgb3
+2019-01-02T22:44:54.070946+00:00 app[web.1]: [getAllBlocks]: Found repo morejust/orgb4
+2019-01-02T22:44:54.071018+00:00 app[web.1]: [getAllBlocks]: Found repo morejust/orgb5
+2019-01-02T22:44:54.071089+00:00 app[web.1]: [getAllBlocks]: Found repo morejust/orgb6
+2019-01-02T22:44:54.071160+00:00 app[web.1]: [getAllBlocks]: Found repo morejust/orgb7
+2019-01-02T22:44:54.071231+00:00 app[web.1]: [getAllBlocks]: Found repo morejust/orgb8
+2019-01-02T22:44:54.071301+00:00 app[web.1]: [getAllBlocks]: Found repo morejust/orgb9
+2019-01-02T22:44:54.071372+00:00 app[web.1]: [getAllBlocks]: Found repo morejust/orgb10
+2019-01-02T22:44:54.071443+00:00 app[web.1]: [getAllBlocks]: Found repo morejust/orgb11
+2019-01-02T22:44:54.071514+00:00 app[web.1]: [getAllBlocks]: Found repo morejust/orgb12
+2019-01-02T22:44:54.071585+00:00 app[web.1]: [getAllBlocks]: Found repo morejust/orgb13
+2019-01-02T22:44:54.071656+00:00 app[web.1]: [getAllBlocks]: Found repo morejust/orgb14
+2019-01-02T22:44:54.071727+00:00 app[web.1]: [getAllBlocks]: Found repo morejust/orgb15
+2019-01-02T22:44:54.071797+00:00 app[web.1]: [getAllBlocks]: Found repo morejust/orgb16
+2019-01-02T22:44:54.071889+00:00 app[web.1]: [getAllBlocks]: Found repo morejust/orgb17
+2019-01-02T22:44:54.071992+00:00 app[web.1]: [getAllBlocks]: Found repo morejust/orgb18
+2019-01-02T22:44:54.072063+00:00 app[web.1]: [getAllBlocks]: Found repo morejust/orgb19
+2019-01-02T22:44:54.072133+00:00 app[web.1]: [getAllBlocks]: Found repo morejust/orgb20
+2019-01-02T22:44:54.072218+00:00 app[web.1]: [getAllBlocks]: Found repo morejust/orgb21
+2019-01-02T22:44:54.072293+00:00 app[web.1]: [getAllBlocks]: Found repo morejust/orgb22
+2019-01-02T22:44:54.072369+00:00 app[web.1]: [getAllBlocks]: Found repo morejust/orgb23
+2019-01-02T22:44:54.072440+00:00 app[web.1]: [getAllBlocks]: Found repo morejust/orgb24
+2019-01-02T22:44:54.072511+00:00 app[web.1]: [getAllBlocks]: Found repo morejust/orgb25
+2019-01-02T22:44:54.071978+00:00 heroku[router]: at=info method=POST path="/stats" host=morejust.herokuapp.com request_id=f24a62f8-06f8-498c-9146-921f7e6678e1 fwd="46.133.104.139" dyno=web.1 connect=0ms service=760ms status=200 bytes=321 protocol=https
+2019-01-02T22:45:19.032127+00:00 heroku[router]: at=info method=POST path="/initialInfo" host=morejust.herokuapp.com request_id=fb902bf7-1b67-4c71-bec8-e598dc02766f fwd="31.14.75.57" dyno=web.1 connect=1ms service=4ms status=200 bytes=279 protocol=https
+2019-01-02T22:45:19.812624+00:00 heroku[router]: at=info method=POST path="/stats" host=morejust.herokuapp.com request_id=49aaebb3-f2ee-4526-90bd-cda6081cef3b fwd="31.14.75.57" dyno=web.1 connect=1ms service=748ms status=200 bytes=321 protocol=https
+2019-01-02T22:45:19.813305+00:00 app[web.1]: [getAllBlocks]: Found repo morejust/orgb1
+2019-01-02T22:45:19.813372+00:00 app[web.1]: [getAllBlocks]: Found repo morejust/orgb2
+2019-01-02T22:45:19.813428+00:00 app[web.1]: [getAllBlocks]: Found repo morejust/orgb3
+2019-01-02T22:45:19.813493+00:00 app[web.1]: [getAllBlocks]: Found repo morejust/orgb4
+2019-01-02T22:45:19.813563+00:00 app[web.1]: [getAllBlocks]: Found repo morejust/orgb5
+2019-01-02T22:45:19.813616+00:00 app[web.1]: [getAllBlocks]: Found repo morejust/orgb6
+2019-01-02T22:45:19.813679+00:00 app[web.1]: [getAllBlocks]: Found repo morejust/orgb7
+2019-01-02T22:45:19.813750+00:00 app[web.1]: [getAllBlocks]: Found repo morejust/orgb8
+2019-01-02T22:45:19.813803+00:00 app[web.1]: [getAllBlocks]: Found repo morejust/orgb9
+2019-01-02T22:45:19.813866+00:00 app[web.1]: [getAllBlocks]: Found repo morejust/orgb10
+2019-01-02T22:45:19.813936+00:00 app[web.1]: [getAllBlocks]: Found repo morejust/orgb11
+2019-01-02T22:45:19.813994+00:00 app[web.1]: [getAllBlocks]: Found repo morejust/orgb12
+2019-01-02T22:45:19.814056+00:00 app[web.1]: [getAllBlocks]: Found repo morejust/orgb13
+2019-01-02T22:45:19.814126+00:00 app[web.1]: [getAllBlocks]: Found repo morejust/orgb14
+2019-01-02T22:45:19.814181+00:00 app[web.1]: [getAllBlocks]: Found repo morejust/orgb15
+2019-01-02T22:45:19.814247+00:00 app[web.1]: [getAllBlocks]: Found repo morejust/orgb16
+2019-01-02T22:45:19.814314+00:00 app[web.1]: [getAllBlocks]: Found repo morejust/orgb17
+2019-01-02T22:45:19.814372+00:00 app[web.1]: [getAllBlocks]: Found repo morejust/orgb18
+2019-01-02T22:45:19.814434+00:00 app[web.1]: [getAllBlocks]: Found repo morejust/orgb19
+2019-01-02T22:45:19.814502+00:00 app[web.1]: [getAllBlocks]: Found repo morejust/orgb20
+2019-01-02T22:45:19.814573+00:00 app[web.1]: [getAllBlocks]: Found repo morejust/orgb21
+2019-01-02T22:45:19.814635+00:00 app[web.1]: [getAllBlocks]: Found repo morejust/orgb22
+2019-01-02T22:45:19.814691+00:00 app[web.1]: [getAllBlocks]: Found repo morejust/orgb23
+2019-01-02T22:45:19.814798+00:00 app[web.1]: [getAllBlocks]: Found repo morejust/orgb24
+2019-01-02T22:45:19.814884+00:00 app[web.1]: [getAllBlocks]: Found repo morejust/orgb25
+2019-01-02T22:46:50.284977+00:00 heroku[router]: at=info method=POST path="/initialInfo" host=morejust.herokuapp.com request_id=742fcb6b-efc9-45ae-bf02-9d405d3dc48c fwd="99.228.237.53" dyno=web.1 connect=0ms service=4ms status=200 bytes=279 protocol=https
+2019-01-02T22:46:50.986815+00:00 heroku[router]: at=info method=POST path="/stats" host=morejust.herokuapp.com request_id=fe529f54-c116-4fb6-9875-86462141b4bb fwd="99.228.237.53" dyno=web.1 connect=0ms service=709ms status=200 bytes=321 protocol=https
+2019-01-02T22:46:50.987036+00:00 app[web.1]: [getAllBlocks]: Found repo morejust/orgb1
+2019-01-02T22:46:50.987092+00:00 app[web.1]: [getAllBlocks]: Found repo morejust/orgb2
+2019-01-02T22:46:50.987170+00:00 app[web.1]: [getAllBlocks]: Found repo morejust/orgb3
+2019-01-02T22:46:50.987242+00:00 app[web.1]: [getAllBlocks]: Found repo morejust/orgb4
+2019-01-02T22:46:50.987313+00:00 app[web.1]: [getAllBlocks]: Found repo morejust/orgb5
+2019-01-02T22:46:50.987390+00:00 app[web.1]: [getAllBlocks]: Found repo morejust/orgb6
+2019-01-02T22:46:50.987465+00:00 app[web.1]: [getAllBlocks]: Found repo morejust/orgb7
+2019-01-02T22:46:50.987536+00:00 app[web.1]: [getAllBlocks]: Found repo morejust/orgb8
+2019-01-02T22:46:50.987607+00:00 app[web.1]: [getAllBlocks]: Found repo morejust/orgb9
+2019-01-02T22:46:50.987684+00:00 app[web.1]: [getAllBlocks]: Found repo morejust/orgb10
+2019-01-02T22:46:50.987754+00:00 app[web.1]: [getAllBlocks]: Found repo morejust/orgb11
+2019-01-02T22:46:50.987825+00:00 app[web.1]: [getAllBlocks]: Found repo morejust/orgb12
+2019-01-02T22:46:50.987906+00:00 app[web.1]: [getAllBlocks]: Found repo morejust/orgb13
+2019-01-02T22:46:50.987977+00:00 app[web.1]: [getAllBlocks]: Found repo morejust/orgb14
+2019-01-02T22:46:50.988047+00:00 app[web.1]: [getAllBlocks]: Found repo morejust/orgb15
+2019-01-02T22:46:50.988118+00:00 app[web.1]: [getAllBlocks]: Found repo morejust/orgb16
+2019-01-02T22:46:50.988287+00:00 app[web.1]: [getAllBlocks]: Found repo morejust/orgb17
+2019-01-02T22:46:50.988370+00:00 app[web.1]: [getAllBlocks]: Found repo morejust/orgb18
+2019-01-02T22:46:50.988442+00:00 app[web.1]: [getAllBlocks]: Found repo morejust/orgb19
+2019-01-02T22:46:50.988570+00:00 app[web.1]: [getAllBlocks]: Found repo morejust/orgb20
+2019-01-02T22:46:50.988664+00:00 app[web.1]: [getAllBlocks]: Found repo morejust/orgb21
+2019-01-02T22:46:50.988735+00:00 app[web.1]: [getAllBlocks]: Found repo morejust/orgb22
+2019-01-02T22:46:50.988817+00:00 app[web.1]: [getAllBlocks]: Found repo morejust/orgb23
+2019-01-02T22:46:50.988892+00:00 app[web.1]: [getAllBlocks]: Found repo morejust/orgb24
+2019-01-02T22:46:50.988963+00:00 app[web.1]: [getAllBlocks]: Found repo morejust/orgb25
